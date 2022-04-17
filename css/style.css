@@ -1,0 +1,121 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+
+}
+.cantainer{
+ width: 400px;
+ margin: 0 auto;
+ text-align: center;
+}
+.item{
+    text-align: center;
+    
+}
+.title{
+    display:inline-block;
+  
+}
+.cantainer2{
+    width: 1000px;
+    padding: 30px;
+}
+.ol{
+    text-align: center;
+}
+.li{
+    display: inline-block;
+}
+.knopka{
+    font-size: 18px;
+    word-spacing: 3px;
+    padding: 0 8px;
+    background-color: beige;
+    
+}
+.cantainer3{
+    width: 1140px;                                                                                 0px;
+  
+}
+.ul{
+    font-size: 10px;
+
+}
+.content{
+    display: inline-block;
+    width: 500px;
+text-align: center;
+
+}
+.img{
+ 
+    transition: .7;
+    width: 450px;
+    height: 300px;
+}
+img:hover{
+    opacity: .7 ;
+}
+.name{
+    font-size: 25px;
+    margin: 15px 0;
+}
+.li{
+    font-size: 50px;
+    padding: 20px 0;
+}
+.name3{
+    font-size: 15px;
+}
+
+    
+.ul{
+    text-align: center;
+    
+}
+.knop{
+    color: gold;
+    background-color: black;
+    border: 10px;
+    transition: .7s;
+    font-size: 20px;
+
+}
+.knop:hover{
+    opacity: .7;
+}
+.knopka:hover{
+    opacity: .7;
+}
+.name10{
+    color: orange;
+   
+
+}
+.name11{
+    color: brown;
+  
+}
+.name12{
+    color: blue;
+
+}
+.name13{
+    color: palevioletred;
+}
+.name14{
+    color: green;
+
+}
+.name15{
+    color: pink;
+}
